@@ -1,0 +1,5 @@
+name: IPExpunge
+main: me.cnaude.plugin.IPExpunge.IPMain
+version: 0.1.0
+description: Expunge those IP addresses from chat.
+author: Chris Naude
